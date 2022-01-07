@@ -2,7 +2,7 @@ Dingtalk Client（钉钉Open Api Node.js SDK轻量版）
 ---
 
 ## 使用方法
-> 下面以钉钉扫码免登第三方网站为例
+> 下面以钉钉扫码免登第三方网站为例（示例代码选择 Express 作为web框架）
 
 
 ```javascript

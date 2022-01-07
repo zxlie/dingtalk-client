@@ -2,6 +2,7 @@
  * Dingtalk Open API Nodejs ：钉钉OpenApi的Nodejs版sdk
  * @autho 烈神
  * @date 2022.01.07
+ * @github https://github.com/zxlie/dingtalk-client
  */
 
 let request = require('request');
